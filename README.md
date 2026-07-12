@@ -54,8 +54,6 @@ XtracBOT merges embedded hardware with a modern web frontend to create a wireles
 * **Sonar:** HC-SR04 Ultrasonic Sensor
 * **Power Supply:** 7.4V (2x 18650 Li-ion) + LM2596 Buck Converter (stepped down to 5.0V for ESP32)
 
----
-
 ## 🚀 Installation & Setup
 
 1. **Upload Firmware:** Flash `SmartLFR_Firmware.ino` to your ESP32 using the Arduino IDE. 
@@ -70,3 +68,16 @@ Because every physical chassis is slightly different, you can tune the turning a
 1. Open the Web App.
 2. Send a `F,R,STOP` command to test a right turn.
 3. If it under-turns or over-turns, adjust the `TICKS_RIGHT_90` and `TICKS_LEFT_90` variables at the very top of `SmartLFR_Firmware.ino`.
+
+---
+
+## 👨‍💻 Developers
+This project was designed and built by:
+
+**1. Mahabubul Alam**  
+*Roll:* 2207001  
+
+**2. Alif Al Ahad**  
+*Roll:* 2207016  
+
+**Batch:** 2k22
