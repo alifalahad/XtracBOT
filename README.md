@@ -5,8 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="car_photo.png" alt="XtracBOT Robot" width="300"/>
+  <img src="car_photo.png" alt="XtracBOT Robot" width="400"/>
+</p>
+<p align="center">
+  <em>The assembled XtracBOT hardware featuring dual LM393 encoders, MPU6050 gyro, and an ultrasonic obstacle avoidance system.</em>
+</p>
+
+<br>
+
+<p align="center">
   <img src="app_screenshot.png" alt="XtracBOT Web App Interface" width="300"/>
+</p>
+<p align="center">
+  <em>The custom-built, mobile-responsive Web App hosted directly on the ESP32 for drawing and sending complex maze paths.</em>
 </p>
 
 ## ✨ Features
